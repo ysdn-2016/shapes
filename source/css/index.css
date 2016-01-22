@@ -1,0 +1,12 @@
+
+@import '@rosszurowski/normalize';
+@import '@rosszurowski/vanilla';
+
+.main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 500px;
+	height: 280px;
+	margin: -140px 0 0 -250px;
+}

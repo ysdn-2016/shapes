@@ -1,0 +1,33 @@
+{
+  "name": "ysdn-gradshow-shapes",
+  "version": "0.0.1",
+  "description": "A trial at generative shape art for the YSDN 2016 gradshow",
+  "private": true,
+  "dependencies": {
+    "2d-context": "^1.3.0",
+    "canvas-loop": "^1.0.7",
+    "domready": "^1.0.8",
+    "eases": "^1.0.8",
+    "lodash.assign": "^4.0.0",
+    "random-int": "^1.0.0",
+    "tweenr": "^2.1.3"
+  },
+  "devDependencies": {
+    "@rosszurowski/normalize": "^0.1.1",
+    "@rosszurowski/vanilla": "^0.1.2",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-es2015-loose": "^7.0.0",
+    "babel-preset-stage-1": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browserify": "^11.0.1",
+    "budo": "^4.0.0",
+    "cssnext": "^1.8.2",
+    "garnish": "^2.1.3"
+  },
+  "author": {
+    "name": "Ross Zurowski",
+    "email": "ross@rosszurowski.com",
+    "url": "http://rosszurowski.com"
+  },
+  "license": "MIT"
+}
